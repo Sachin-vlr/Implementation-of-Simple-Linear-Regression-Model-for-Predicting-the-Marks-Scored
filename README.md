@@ -85,11 +85,10 @@ plt.show()
 ![image](https://github.com/Sachin-vlr/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497666/7abaa21a-b848-4336-a64d-a255a17d9105)
 
 ## TRAINING SET GRAPH
-
+![Screenshot 2023-08-24 091301](https://github.com/Sachin-vlr/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497666/5541802c-a5a1-46c7-850d-38d7c376d76c)
 
 ## TEST SET GRAPH
-
-
+![Screenshot 2023-08-24 091316](https://github.com/Sachin-vlr/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497666/f3e722b9-d843-4ace-9b93-30127f94770e)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
