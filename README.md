@@ -93,6 +93,7 @@ plt.show()
 ## TEST SET GRAPH
 ![Screenshot 2023-08-24 091316](https://github.com/Sachin-vlr/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497666/f3e722b9-d843-4ace-9b93-30127f94770e)
 
+## VALUE OF MSE AND RMSE
 ![image](https://github.com/Sachin-vlr/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497666/69bb99d6-f574-43a4-9ff4-600b7e2fcb50)
 
 
